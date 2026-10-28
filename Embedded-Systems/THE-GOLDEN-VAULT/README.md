@@ -1,5 +1,4 @@
 # THE GOLDEN VAULT 🔐
-![THE GOLDEN VAULT](images/golden-vault-final.jpg)
 
 ## About the Project
 
@@ -54,3 +53,11 @@ There are still some things I could improve in the future, such as the physical 
 Computer Engineering Student
 
 GitHub: [HadofaX](https://github.com/HadofaX)
+
+## Project Gallery
+Here are some photos of the final project.
+
+![THE GOLDEN VAULT - Final Build](images/golden-vault-final.jpg)
+![THE GOLDEN VAULT - Photo 2](images/golden-vault-final-1.jpg)
+![THE GOLDEN VAULT - Photo 3](images/golden-vault-final-2.jpg)
+
