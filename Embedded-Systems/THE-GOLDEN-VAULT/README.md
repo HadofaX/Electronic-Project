@@ -1,4 +1,5 @@
 # THE GOLDEN VAULT 🔐
+![THE GOLDEN VAULT](images/golden-vault-final.jpg)
 
 ## About the Project
 
