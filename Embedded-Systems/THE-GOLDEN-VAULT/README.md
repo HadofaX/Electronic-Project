@@ -58,6 +58,5 @@ GitHub: [HadofaX](https://github.com/HadofaX)
 Here are some photos of the final project.
 
 ![THE GOLDEN VAULT - Final Build](images/golden-vault-final.jpg)
-![THE GOLDEN VAULT - Photo 2](images/golden-vault-final-1.jpg)
-![THE GOLDEN VAULT - Photo 3](images/golden-vault-final-2.jpg)
+![THE GOLDEN VAULT - Photo 2](images/golden-vault-final-2.jpg)
 
