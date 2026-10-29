@@ -1,2 +1,2 @@
-# Huzeyfe-Proji
+# Electronic Project
 My personal technology and engineering projects, from ideas and experiments to complete implementations.
